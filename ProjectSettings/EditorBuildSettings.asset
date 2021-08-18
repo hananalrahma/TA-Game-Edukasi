@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: e97a6b90e9836474cbc0f69394851b1b
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 09fb3746e7cc4e34a8d8f0a13c4c9f7b
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: e84fed2fd1e99964ab0026e1081f76aa
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 32d2350ebe6509e48a04721e2661afb3
+  - enabled: 1
+    path: Assets/Scenes/lintasan 1.unity
+    guid: 48f7070a656a90448bc5699652fcb538
+  - enabled: 1
+    path: Assets/Scenes/lintasan 3.unity
+    guid: 9a35734c22c27184cb5fa412a7cf2e6a
+  - enabled: 1
+    path: Assets/Scenes/lintasan 4.unity
+    guid: ba362d6c74be2e6459d641dce279913f
+  - enabled: 1
+    path: Assets/Scenes/lintasan 5.unity
+    guid: 024abcd63d6edcd49ac8f96e9b9c532c
+  - enabled: 1
+    path: Assets/Scenes/lintasan 6.unity
+    guid: dcf977d6919db194f97a275dd69af6a1
+  - enabled: 1
+    path: Assets/Scenes/lintasan 7.unity
+    guid: 6214a7dd6e346594bb8154cd4f4e5c44
+  - enabled: 1
+    path: Assets/Scenes/lintasan 8.unity
+    guid: 7c2d99de1f6cae44493e809f5a008e04
+  - enabled: 1
+    path: Assets/Scenes/lintasan 9.unity
+    guid: 52f2e3e144fc6764b9d0a8f61bd18f55
+  - enabled: 1
+    path: Assets/Scenes/lintasan 10.unity
+    guid: 77cb56d4bfc030b4c9fed846caefb80a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
